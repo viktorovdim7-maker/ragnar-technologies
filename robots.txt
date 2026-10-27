@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ragnar-technologies.vercel.app/sitemap.xml
