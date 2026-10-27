@@ -22,7 +22,7 @@ The choice is saved locally when browser storage is available. The English conte
 Home, Solutions, Projects, About and Contact are accessible sections of one page.
 Hospitality AI and Construction AI are development/demonstration projects. Workflow examples are predefined illustrations, not operational AI, verified product capabilities, customer cases or production results.
 The copy-brief control only writes a template to the visitor's clipboard. No messages are sent and no form data is collected.
-The Contact link points to the verified repository owner's public GitHub profile; no business email or physical address is asserted.
+Contact includes the public business email ragnartechnologies2026@gmail.com as a mailto link, alongside the repository owner's public GitHub profile.
 RAGNAR Sport is not marketed here.
 
 ## Privacy and accessibility
